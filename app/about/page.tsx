@@ -82,7 +82,7 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-white mb-6">Our Story</h2>
               <div className="space-y-4 text-gray-300">
                 <p>
-                  Sunari Acoustics Lab was founded in 2015 by Alex Chen, a former professional audio engineer with a
+                  Sunari Acoustics Lab was founded in 2025 by Mr khor and Friendy, a former professional audio engineer with a
                   vision to create in-ear monitors that could deliver studio-quality sound in any environment.
                 </p>
                 <p>

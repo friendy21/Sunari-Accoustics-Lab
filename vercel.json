@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npx prisma generate && npm install --legacy-peer-deps && next build",
+  "ignoreCommand": "echo 'Skipping'",
+  "outputDirectory": ".next"
+}
